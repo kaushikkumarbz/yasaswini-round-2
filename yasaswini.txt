@@ -1,0 +1,9 @@
+1 to 10 = 6
+
+Api 
+
+Step 1: create a nodejs app
+Step 2. Use the api and log the data given by api
+Step 3: push your code to github
+
+20min 
